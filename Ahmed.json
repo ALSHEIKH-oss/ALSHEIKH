@@ -1,13 +1,13 @@
 {
-  "versionCode": 1,
+  "versionCode": 3,
   "versionName": "4.4.0",
-  "url": "https://github.com/ALSHEIKH-oss/ALSHEIKH/raw/refs/heads/main/_V1.apk",
+  "url": "https://github.com/wlk17/Update1/releases/download/Update/_4.4.0.apk",
   "message": "قم بل تنزيل للتمتع بل تطبيق",
   "forceUpdate": true,
-  "fileSize": 15728640,
+  "fileSize": 22,
   "md5": "a1b2c3d4e5f6789012345678901234567",
-  "releaseDate": "2026-05-14",
-  "changelog": "- إصلاح مشكلة باند الاسبوع\n- اضافة سكنات \n- اضافة تسجيل دخول فيس بوك",
+  "releaseDate": "2026-04-21",
+  "changelog": "تم اضافه الاسكنات\n- اصلاح الخروج التلقائي \n- اضافه ميزه 4 انواع الكشف  ",
   "minAndroidVersion": 21,
   "downloadType": "direct"
 }
